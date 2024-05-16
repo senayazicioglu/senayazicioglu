@@ -11,7 +11,6 @@
 
 
 
-<p align="center"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senayazicioglu&langs_count=8&show_icons=true&theme=transparent" alt="senayazicioglu" /></p>
 
 <p align="center"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=senayazicioglu&show_icons=true&theme=transparent" alt="senayazicioglu" /></p>
 
